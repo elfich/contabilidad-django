@@ -1,0 +1,1 @@
+Sistema de control contable desarrollado en Django
